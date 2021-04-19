@@ -3,7 +3,7 @@
 board = []
 
 9.times do 
-  board.push ''
+  board.push ' '
 end
 
 board
